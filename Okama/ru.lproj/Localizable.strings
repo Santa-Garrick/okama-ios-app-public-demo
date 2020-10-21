@@ -1,0 +1,117 @@
+/* accountBalance */
+"accountBalance" = "Баланс";
+
+/* activities */
+"Activities" = "Показатели";
+
+/* addAtLeastOne message */
+"Add at least one asset" = "Добавьте хотя бы один актив";
+
+/* addNew title */
+"Add new" = "Добавить новый";
+
+/* addNew */
+"Add new asset" = "Добавить новый актив";
+
+/* analyze */
+"Analyze" = "Анализировать";
+
+/* annualReturns */
+"Annual Returns" = "По годам";
+
+/* header */
+"Assets" = "Активы";
+
+/* averageInflation */
+"averageInflation" = "Средняя инфляция";
+
+/* cagr full */
+"CAGR for year" = "Среднегодовая доходность за";
+
+/* chart */
+"Chart" = "График";
+
+/* chooseDate title */
+"Choose start date" = "Выберите дату";
+
+/* constructor title */
+"Constructor" = "Конструктор";
+
+/* cumulativeInflation */
+"cumulativeInflation" = "Накопленная инфляция";
+
+/* cumulativeRealReturn */
+"cumulativeRealReturn" = "Накопленная реальная доходность";
+
+/* cumulativeReturn */
+"cumulativeReturn" = "Накопленная доходность";
+
+/* emptyResultMessage */
+"emptyResultMessage" = "Ничего не найдено";
+
+/* enterAmount title */
+"Enter amount" = "Введите сумму";
+
+/* enterWeight title */
+"Enter weight" = "Введите вес";
+
+/* enterNewAssetPlaceholder */
+"enterNewAssetPlaceholder" = "Введите название актива";
+
+/* errorMessage */
+"errorMessage" = "Возникли ошибки. Попробуйте еще раз";
+
+/* cagr short */
+"for year" = "за";
+
+/* glossary title */
+"Glossary" = "Глоссарий";
+
+/* inflation title */
+"Inflation" = "Инфляция";
+
+/* No comment provided by engineer. */
+"initialAmountText" = "Сумма инвестиций";
+
+/* lazyPortfolios title */
+"Lazy portfolios" = "Лежебоки";
+
+/* loadingAnalysis */
+"Loading analysis" = "Анализ загружается";
+
+/* loadingAvailableDates */
+"Loading available dates" = "Загружаются доступные даты";
+
+/* myPortfolios title */
+"My portfolios" = "Мои портфели";
+
+/* newPortfolio title */
+"New portfolio" = "Новый портфель";
+
+/* periodLength */
+"periodLength" = "Длина периода";
+
+/* No comment provided by engineer. */
+"portfolioTableTitle" = "Портфель";
+
+/* cumulativeCAGR */
+"realCAGR" = "Реальная среднегодовая доходность";
+
+/* searchAddedTitle */
+"searchAddedTitle" = "Выбрано";
+
+/* searchAddTitle */
+"searchAddTitle" = "Добавить новый";
+
+/* showAnalysis */
+"Show analysis" = "Показать анализ";
+
+/* standartDeviation */
+"standartDeviation" = "Стандартное отклонение";
+
+/* No comment provided by engineer. */
+"startDateLabel" = "Начальная дата";
+
+/* ytdReturn */
+"ytdReturn" = "Доходность с начала года";
+

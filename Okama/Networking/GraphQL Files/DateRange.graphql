@@ -1,0 +1,18 @@
+query DateRange($assetName: String) {
+  portfolio_asset(name: $assetName) {
+    return_values {
+      period {
+        min
+        max
+      }
+    }
+    close {
+      period {
+        min
+        max
+      }
+    }
+  }
+}
+
+

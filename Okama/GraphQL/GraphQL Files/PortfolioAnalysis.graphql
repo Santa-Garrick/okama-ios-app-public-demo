@@ -1,0 +1,129 @@
+query PortfolioAnalysis(
+  $assetInputs: [PortfolioAssetInput]!,
+  $startPeriod: String,
+  $currency: Currency!,
+  $initialAmount: Float
+) {
+  
+  portfolio(
+    assets: $assetInputs,
+     start_period: $startPeriod,
+    currency: $currency
+  ) {
+    initial_amount
+    currency
+    period_duration {
+      years
+      months
+    }
+    balance(initial_amount: $initialAmount) {
+      return_values {
+        values
+      }
+    }
+      cumulativeReturn: return_values(kind: cumulative) {
+      values
+    }
+    combinedCumulativeReturns: return_values(kind: cumulative) {
+      combined {
+        period
+        value
+      }
+    }
+    ytdReturn: return_values(kind: year_to_date) {
+      values
+    }
+    annualReturns: return_values(kind:year_to_date) {
+      combined {
+        period
+        value
+      }
+    }
+    cagrs {
+      years_ago
+      value
+    }
+    yearlyRisk: risk(period: yearly)
+      cumInflation: inflation(kind: cumulative) {
+      values
+    }
+    combinedInflations: inflation(kind: values) {
+      combined {
+        period
+        value
+      }
+    }
+    gMeanInflation: inflation(kind: g_mean) {
+      values
+    }
+    realCumulativeReturn: return_values(
+      kind: cumulative,
+       real: true
+    ) {
+      values
+    }
+    realCAGR: cagrs(years_ago: 200, real: true) {
+       value
+    }
+    
+    
+    assets {
+      weight
+      asset {
+        identifier {
+          full
+        }
+        short_name
+        long_name
+        initial_amount
+        currency: currency_info {
+          selected
+        }
+        period_duration {
+          years
+          months
+        }
+        balance(initial_amount: $initialAmount) {
+          values
+        }
+        cumulativeReturn: return_values(kind: cumulative) {
+          values
+        }
+        ytdReturn: return_values(kind: year_to_date) {
+          values
+        }
+        cagrs {
+          years_ago
+          value
+        }
+        yearlyRisk: risk(period: yearly)
+        cumInflation: inflation(kind: cumulative) {
+          values
+        }
+        gMeanInflation: inflation(kind: g_mean) {
+          values
+        }
+        realCumulativeReturn: return_values(
+          kind: cumulative,
+          real: true
+        ) {
+          values
+        }
+        realCAGR: cagrs(years_ago: 200, real: true) {
+          value
+        }
+        
+        
+        combinedCumulativeReturns: return_values(kind: cumulative) {
+          combined {
+            period
+            value
+          }
+        }
+        
+      }
+    }
+  }
+}
+
+

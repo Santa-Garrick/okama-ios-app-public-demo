@@ -1,0 +1,28 @@
+PODS:
+  - Apollo (0.31.0):
+    - Apollo/Core (= 0.31.0)
+  - Apollo/Core (0.31.0)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Apollo
+  - Charts
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Apollo
+    - Charts
+    - Swinject
+
+SPEC CHECKSUMS:
+  Apollo: 1b55f2c3970b83a6b49581896334a9c4311a838a
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 604631b63e5f699fb09ac5d5546fb35c80be7b02
+
+COCOAPODS: 1.9.3

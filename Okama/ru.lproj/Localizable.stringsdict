@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>month count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@months_count@</string>
+		<key>months_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>few</key>
+			<string>%d месяца</string>
+			<key>many</key>
+			<string>%d месяцев</string>
+			<key>one</key>
+			<string>%d месяц</string>
+			<key>other</key>
+			<string>%d месяцев</string>
+			<key>zero</key>
+			<string>__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/month count:dict/months_count:dict/zero:dict/:string)</string>
+		</dict>
+	</dict>
+	<key>year count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@year_count@</string>
+		<key>year_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>few</key>
+			<string>%d года</string>
+			<key>many</key>
+			<string>%d лет</string>
+			<key>one</key>
+			<string>%d год</string>
+			<key>other</key>
+			<string>%d лет</string>
+			<key>zero</key>
+			<string>__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/year count:dict/year_count:dict/zero:dict/:string)</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

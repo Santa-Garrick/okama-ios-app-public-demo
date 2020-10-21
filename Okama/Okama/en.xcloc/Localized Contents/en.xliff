@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Okama/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Okama</source>
+        <target>Okama</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Okama/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Constructor" xml:space="preserve">
+        <source>Constructor</source>
+        <target>Constructor</target>
+        <note>constructor title</note>
+      </trans-unit>
+      <trans-unit id="Glossary" xml:space="preserve">
+        <source>Glossary</source>
+        <target>Glossary</target>
+        <note>glossary title</note>
+      </trans-unit>
+      <trans-unit id="Inflation" xml:space="preserve">
+        <source>Inflation</source>
+        <target>Inflation</target>
+        <note>inflation title</note>
+      </trans-unit>
+      <trans-unit id="Lazy portfolios" xml:space="preserve">
+        <source>Lazy portfolios</source>
+        <target>Lazy portfolios</target>
+        <note>lazyPortfolios title</note>
+      </trans-unit>
+      <trans-unit id="My portfolios" xml:space="preserve">
+        <source>My portfolios</source>
+        <target>My portfolios</target>
+        <note>myPortfolios title</note>
+      </trans-unit>
+      <trans-unit id="Заполните все поля" xml:space="preserve">
+        <source>Заполните все поля</source>
+        <target>Заполните все поля</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Неверный формат почты" xml:space="preserve">
+        <source>Неверный формат почты</source>
+        <target>Неверный формат почты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Неизвестная ошибка" xml:space="preserve">
+        <source>Неизвестная ошибка</source>
+        <target>Неизвестная ошибка</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ошибка сервера" xml:space="preserve">
+        <source>Ошибка сервера</source>
+        <target>Ошибка сервера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Пароли не совпадают" xml:space="preserve">
+        <source>Пароли не совпадают</source>
+        <target>Пароли не совпадают</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

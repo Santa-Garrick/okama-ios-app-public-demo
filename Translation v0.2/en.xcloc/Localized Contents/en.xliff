@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Okama/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Okama</source>
+        <target>Okama</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Okama/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Activities" xml:space="preserve">
+        <source>Activities</source>
+        <target>Activities</target>
+        <note>activities</note>
+      </trans-unit>
+      <trans-unit id="Add at least one asset" xml:space="preserve">
+        <source>Add at least one asset</source>
+        <target>Add at least one asset</target>
+        <note>addAtLeastOne message</note>
+      </trans-unit>
+      <trans-unit id="Add new" xml:space="preserve">
+        <source>Add new</source>
+        <target>Add new</target>
+        <note>addNew title</note>
+      </trans-unit>
+      <trans-unit id="Add new asset" xml:space="preserve">
+        <source>Add new asset</source>
+        <target>Add new asset</target>
+        <note>addNew</note>
+      </trans-unit>
+      <trans-unit id="Analyze" xml:space="preserve">
+        <source>Analyze</source>
+        <target>Analyze</target>
+        <note>analyze</note>
+      </trans-unit>
+      <trans-unit id="Annual Returns" xml:space="preserve">
+        <source>Annual Returns</source>
+        <target>Annual Returns</target>
+        <note>annualReturns</note>
+      </trans-unit>
+      <trans-unit id="Assets" xml:space="preserve">
+        <source>Assets</source>
+        <target>Assets</target>
+        <note>header</note>
+      </trans-unit>
+      <trans-unit id="CAGR for year" xml:space="preserve">
+        <source>CAGR for</source>
+        <target>CAGR for</target>
+        <note>cagr full</note>
+      </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <target>Chart</target>
+        <note>chart</note>
+      </trans-unit>
+      <trans-unit id="Choose start date" xml:space="preserve">
+        <source>Choose start date</source>
+        <target>Choose start date</target>
+        <note>chooseDate title</note>
+      </trans-unit>
+      <trans-unit id="Constructor" xml:space="preserve">
+        <source>Constructor</source>
+        <target>Constructor</target>
+        <note>constructor title</note>
+      </trans-unit>
+      <trans-unit id="Enter amount" xml:space="preserve">
+        <source>Enter amount</source>
+        <target>Enter amount</target>
+        <note>enterAmount title</note>
+      </trans-unit>
+      <trans-unit id="Enter weight" xml:space="preserve">
+        <source>Enter weight</source>
+        <target>Enter weight</target>
+        <note>enterWeight title</note>
+      </trans-unit>
+      <trans-unit id="Glossary" xml:space="preserve">
+        <source>Glossary</source>
+        <target>Glossary</target>
+        <note>glossary title</note>
+      </trans-unit>
+      <trans-unit id="Inflation" xml:space="preserve">
+        <source>Inflation</source>
+        <target>Inflation</target>
+        <note>inflation title</note>
+      </trans-unit>
+      <trans-unit id="Lazy portfolios" xml:space="preserve">
+        <source>Lazy portfolios</source>
+        <target>Lazy portfolios</target>
+        <note>lazyPortfolios title</note>
+      </trans-unit>
+      <trans-unit id="Loading analysis" xml:space="preserve">
+        <source>Loading analysis</source>
+        <target>Loading analysis</target>
+        <note>loadingAnalysis</note>
+      </trans-unit>
+      <trans-unit id="Loading available dates" xml:space="preserve">
+        <source>Loading available dates</source>
+        <target>Loading available dates</target>
+        <note>loadingAvailableDates</note>
+      </trans-unit>
+      <trans-unit id="My portfolios" xml:space="preserve">
+        <source>My portfolios</source>
+        <target>My portfolios</target>
+        <note>myPortfolios title</note>
+      </trans-unit>
+      <trans-unit id="New portfolio" xml:space="preserve">
+        <source>New portfolio</source>
+        <target>New portfolio</target>
+        <note>newPortfolio title</note>
+      </trans-unit>
+      <trans-unit id="Show analysis" xml:space="preserve">
+        <source>Show analysis</source>
+        <target>Show analysis</target>
+        <note>showAnalysis</note>
+      </trans-unit>
+      <trans-unit id="accountBalance" xml:space="preserve">
+        <source>Account Balance</source>
+        <target>Account Balance</target>
+        <note>accountBalance</note>
+      </trans-unit>
+      <trans-unit id="averageInflation" xml:space="preserve">
+        <source>Average Inflation</source>
+        <target>Average Inflation</target>
+        <note>averageInflation</note>
+      </trans-unit>
+      <trans-unit id="cumulativeInflation" xml:space="preserve">
+        <source>Cumulative Inflation</source>
+        <target>Cumulative Inflation</target>
+        <note>cumulativeInflation</note>
+      </trans-unit>
+      <trans-unit id="cumulativeRealReturn" xml:space="preserve">
+        <source>Cumulative Real Return</source>
+        <target>Cumulative Real Return</target>
+        <note>cumulativeRealReturn</note>
+      </trans-unit>
+      <trans-unit id="cumulativeReturn" xml:space="preserve">
+        <source>Cumulative Return</source>
+        <target>Cumulative Return</target>
+        <note>cumulativeReturn</note>
+      </trans-unit>
+      <trans-unit id="emptyResultMessage" xml:space="preserve">
+        <source>Refine your search request</source>
+        <target>Refine your search request</target>
+        <note>emptyResultMessage</note>
+      </trans-unit>
+      <trans-unit id="enterNewAssetPlaceholder" xml:space="preserve">
+        <source>Enter new asset</source>
+        <target>Enter new asset</target>
+        <note>enterNewAssetPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="errorMessage" xml:space="preserve">
+        <source>Some error occurs</source>
+        <target>Some error occurs</target>
+        <note>errorMessage</note>
+      </trans-unit>
+      <trans-unit id="for year" xml:space="preserve">
+        <source>for</source>
+        <target>for</target>
+        <note>cagr short</note>
+      </trans-unit>
+      <trans-unit id="initialAmountText" xml:space="preserve">
+        <source>initialAmountText</source>
+        <target>Initial amount</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="month count" xml:space="preserve">
+        <source>month count</source>
+        <target>month count</target>
+        <note>month count</note>
+      </trans-unit>
+      <trans-unit id="periodLength" xml:space="preserve">
+        <source>Period Length</source>
+        <target>Period Length</target>
+        <note>periodLength</note>
+      </trans-unit>
+      <trans-unit id="portfolioTableTitle" xml:space="preserve">
+        <source>Portfolio</source>
+        <target>Portfolio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="realCAGR" xml:space="preserve">
+        <source>Real CAGR</source>
+        <target>Real CAGR</target>
+        <note>cumulativeCAGR</note>
+      </trans-unit>
+      <trans-unit id="searchAddTitle" xml:space="preserve">
+        <source>Add new asset</source>
+        <target>Add new asset</target>
+        <note>searchAddTitle</note>
+      </trans-unit>
+      <trans-unit id="searchAddedTitle" xml:space="preserve">
+        <source>Added</source>
+        <target>Added</target>
+        <note>searchAddedTitle</note>
+      </trans-unit>
+      <trans-unit id="standartDeviation" xml:space="preserve">
+        <source>Standart Deviation</source>
+        <target>Standart Deviation</target>
+        <note>standartDeviation</note>
+      </trans-unit>
+      <trans-unit id="startDateLabel" xml:space="preserve">
+        <source>startDateLabel</source>
+        <target>Start date</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="year count" xml:space="preserve">
+        <source>year count</source>
+        <target>year count</target>
+        <note>year count</note>
+      </trans-unit>
+      <trans-unit id="ytdReturn" xml:space="preserve">
+        <source>YTD Return</source>
+        <target>YTD Return</target>
+        <note>ytdReturn</note>
+      </trans-unit>
+      <trans-unit id="Заполните все поля" xml:space="preserve">
+        <source>Заполните все поля</source>
+        <target>Заполните все поля</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Неверный формат почты" xml:space="preserve">
+        <source>Неверный формат почты</source>
+        <target>Неверный формат почты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Неизвестная ошибка" xml:space="preserve">
+        <source>Неизвестная ошибка</source>
+        <target>Неизвестная ошибка</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ошибка сервера" xml:space="preserve">
+        <source>Ошибка сервера</source>
+        <target>Ошибка сервера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Пароли не совпадают" xml:space="preserve">
+        <source>Пароли не совпадают</source>
+        <target>Пароли не совпадают</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Okama/en.lproj/Localizable.stringsdict" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="/month count:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@months_count@</source>
+        <target>%#@months_count@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/month count:dict/months_count:dict/one:dict/:string" xml:space="preserve">
+        <source>%d month</source>
+        <target>%d month</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/month count:dict/months_count:dict/other:dict/:string" xml:space="preserve">
+        <source>%d months</source>
+        <target>%d months</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/year count:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@year_count@</source>
+        <target>%#@year_count@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/year count:dict/year_count:dict/one:dict/:string" xml:space="preserve">
+        <source>%d year</source>
+        <target>%d year</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/year count:dict/year_count:dict/other:dict/:string" xml:space="preserve">
+        <source>%d years</source>
+        <target>%d years</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

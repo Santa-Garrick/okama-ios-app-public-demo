@@ -1,0 +1,29 @@
+query Inflation($currency: Currency) {
+   inflation(currency: $currency) {
+   currency
+    months_12_sliding_window {
+       combined {
+        period
+        value
+      }
+    }
+    year_on_year {
+      combined {
+        period
+        value
+      }
+    }
+    values_by_year {
+      year
+       values {
+        combined {
+          period
+          value
+        }
+      }
+      cumulative {
+        values
+      }
+    }
+  }
+}

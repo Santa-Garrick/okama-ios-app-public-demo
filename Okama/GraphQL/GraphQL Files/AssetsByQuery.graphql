@@ -1,0 +1,12 @@
+query AssetsByQuery($query: String!) {
+  assets_by_query(queries: [$query]) {
+    symbols {
+      identifier {
+        full
+      }
+      title
+      exchange
+    }
+  }
+}
+

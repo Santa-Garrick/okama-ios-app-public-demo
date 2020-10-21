@@ -1,0 +1,49 @@
+mutation CreatePortfolio(
+    $assets: [PortfolioAssetWeightedInput]!,
+      $currency: Currency!,
+      $initialAmount: Float!,
+      $period: PortfolioPeriod!
+  ) {
+  create_portfolio(
+    assets: $assets,
+      currency: $currency,
+      initial_amount: $initialAmount,
+      period: $period
+  ) {
+    uuid
+    ok
+    errors
+  }
+}
+
+
+
+mutation UpdatePortfolio(
+    $assets: [PortfolioAssetWeightedInput]!,
+      $currency: Currency!,
+      $initialAmount: Float!,
+      $period: PortfolioPeriod!,
+     $uuid: UUID!
+  ) {
+  update_portfolio(
+    assets: $assets,
+      currency: $currency,
+      initial_amount: $initialAmount,
+      period: $period,
+    uuid: $uuid
+  ) {
+    uuid
+    ok
+    errors
+  }
+}
+
+mutation DeletePortfolio(
+    $id: UUID!,
+  ) {
+    delete_portfolio(portfolio_ids: [$id]) {
+      ok
+      errors
+    }
+  
+}

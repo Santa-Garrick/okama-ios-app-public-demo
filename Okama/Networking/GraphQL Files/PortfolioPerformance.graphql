@@ -1,0 +1,18 @@
+query PortfolioPerformance(
+  $assetInputs: [PortfolioAssetInput]!,
+  $startPeriod: String,
+  $currency: Currency!
+) {
+  
+  portfolio(
+      assets: $assetInputs,
+      start_period: $startPeriod,
+      currency: $currency
+  ) {
+    ytdReturn: return_values(kind: year_to_date) {
+      values
+    }
+    yearlyRisk: risk(period: yearly)
+  }
+}
+

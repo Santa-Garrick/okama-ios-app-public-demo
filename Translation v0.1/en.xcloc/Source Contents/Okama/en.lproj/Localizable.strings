@@ -1,0 +1,51 @@
+/* accountBalance */
+"accountBalance" = "Account Balance";
+
+/* averageInflation */
+"averageInflation" = "Average Inflation";
+
+/* cagr full */
+"CAGR for year" = "CAGR for";
+
+/* cumulativeCAGR */
+"realCAGR" = "Real CAGR";
+
+/* cumulativeInflation */
+"cumulativeInflation" = "Cumulative Inflation";
+
+/* cumulativeRealReturn */
+"cumulativeRealReturn" = "Cumulative Real Return";
+
+/* cumulativeReturn */
+"cumulativeReturn" = "Cumulative Return";
+
+/* emptyResultMessage */
+"emptyResultMessage" = "Refine your search request";
+
+/* enterNewAssetPlaceholder */
+"enterNewAssetPlaceholder" = "Enter new asset";
+
+/* errorMessage */
+"errorMessage" = "Some error occurs";
+
+/* cagr short */
+"for year" = "for";
+
+/* periodLength */
+"periodLength" = "Period Length";
+
+/* No comment provided by engineer. */
+"portfolioTableTitle" = "Portfolio";
+
+/* searchAddedTitle */
+"searchAddedTitle" = "Added";
+
+/* searchAddTitle */
+"searchAddTitle" = "Add new asset";
+
+/* standartDeviation */
+"standartDeviation" = "Standart Deviation";
+
+/* ytdReturn */
+"ytdReturn" = "YTD Return";
+

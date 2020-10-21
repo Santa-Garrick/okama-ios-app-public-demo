@@ -1,0 +1,49 @@
+{
+   "terms": [
+      {
+         "title": "Доходность с начала года",
+         "resourse": "year-to-date-return",
+         "url": "https://okama.io/#/glossary/year-to-date-return"
+      },
+      {
+         "title": "Инфляция",
+         "resourse": "inflation",
+         "url": "https://okama.io/#/glossary/inflation"
+      },
+      {
+         "title": "Накопленная доходность",
+         "resourse": "cumulative-return",
+         "url": "https://okama.io/#/glossary/cumulative-return"
+      },
+      {
+         "title": "Накопленная инфляция",
+         "resourse": "cumulative-inflation",
+         "url": "https://okama.io/#/glossary/cumulative-inflation"
+      },
+      {
+         "title": "Накопленная реальная доходность",
+         "resourse": "real-cumulative-return",
+         "url": "https://okama.io/#/glossary/real-cumulative-return"
+      },
+      {
+         "title": "Реальная среднегодовая доходность",
+         "resourse": "real-compound-annual-growth-rate",
+         "url": "https://okama.io/#/glossary/real-compound-annual-growth-rate"
+      },
+      {
+         "title": "Среднегодовая доходность",
+         "resourse": "compound-annual-growth-rate",
+         "url": "https://okama.io/#/glossary/compound-annual-growth-rate"
+      },
+      {
+         "title": "Средняя инфляция",
+         "resourse": "average-inflation",
+         "url": "https://okama.io/#/glossary/average-inflation"
+      },
+      {
+         "title": "Стандартное отклонение",
+         "resourse": "standard-deviation",
+         "url": "https://okama.io/#/glossary/standard-deviation"
+      }
+   ]
+}

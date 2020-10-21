@@ -1,0 +1,32 @@
+
+
+query UserPortfolioList {
+  me {
+    portfolios {
+      uuid
+      composition: portfolio {
+        assets {
+          asset {
+            identifier {
+              name
+              full
+            }
+            short_name
+          }
+          weight
+        }
+        currency
+        period_duration {
+          start_period
+        }
+      }
+         performance: portfolio {
+        ytdReturn: return_values(kind: year_to_date) {
+            values
+          }
+          yearlyRisk: risk(period: yearly)
+      }
+      initial_amount
+    }
+  }
+}
